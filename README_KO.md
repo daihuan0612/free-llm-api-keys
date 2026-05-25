@@ -54,18 +54,18 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-05-25 17:52 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-05-25 18:07 (UTC+8)
 
 ### 주요 모델
 
-### GPT-5.5 `05-25 17:52`
+### GPT-5.5 `05-25 18:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
 | `sk-ahXL4sXYXwlzxweIJg9Ryk4cC8j4OvHSkeGEQJ4uGyCl4z8R` | gemini-2.5-pro | 🆕 신규 | $20 | 5 RPM | 2026-05-26 | KM recommended alternative for Premium GPT flagship |
 | `sk-qyJFCHtjAKsj6KDyPWumo7ECLnrFTgRO5NaEIXviynJo7By7` | gemini-2.5-pro | 🆕 신규 | $20 | 5 RPM | 2026-05-26 | KM recommended alternative for Premium GPT flagship |
 
-### Claude Opus 4.7 `05-25 17:52`
+### Claude Opus 4.7 `05-25 18:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -76,7 +76,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-YYebtiRtzKHRzkEdmphLexqkieJFNGLDVI35JGGIxcdtrdwZ` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-26 | Claude Opus flagship |
 | `sk-kJwWxI4zzrYJRrJkc4nN9POMNcGKnW1ToZzuvJwPsWa3fVHg` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-26 | Claude Opus flagship |
 
-### DeepSeek `05-25 17:52`
+### DeepSeek `05-25 18:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
