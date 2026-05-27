@@ -54,20 +54,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-05-27 08:37 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-05-27 08:52 (UTC+8)
 
 ### 주요 모델
 
-### GPT-5.5 `05-27 08:37`
-
-| Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
-|-----|------|------|------|------|------|------|
-| `sk-Bi8wkXYOeAICPCK7oO75VgVzBEfcDihro5DHkZlC2UDvd44m` | gpt-5.5 | 🆕 신규 | $20 | 5 RPM | 2026-05-29 | Premium GPT flagship |
-| `sk-vQtnz3TnzRmATQ7gQbnjURAIWCylRrBGYiA4ht3JVyzrsdLg` | gpt-5.5 | 🆕 신규 | $20 | 5 RPM | 2026-05-29 | Premium GPT flagship |
-| `sk-rLxOuzdjpmL0LEptpemDBNHEzb33CxLA6K9Sj5isyNVU2EdN` | gpt-5.5 | 🆕 신규 | $20 | 5 RPM | 2026-05-29 | Premium GPT flagship |
-| `sk-IISPWJLMGMU7OFQFPkwt7JlAsfFsOeEe3PBsUwW210J0Mscl` | gpt-5.5 | 🆕 신규 | $20 | 5 RPM | 2026-05-29 | Premium GPT flagship |
-
-### Claude Opus 4.7 `05-27 08:37`
+### Claude Opus 4.7 `05-27 08:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -78,7 +69,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-oSpDazuu3yRS7aW7YewrmM2HlFSJOMTraj4OtvtO1XYxFWu3` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 | `sk-jcKAQYEbjwnGNrL6nJBchqiXCBnzlf1Col74byVRaVWp4jqh` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 
-### Gemini `05-27 08:37`
+### Gemini `05-27 08:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -89,13 +80,17 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-XgjyFvFKwlN3owoZkPiGpCO2Mdw9yHOYgah7CaLtIwONjCrF` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-05-27 | Fast Gemini option for long-context general chat |
 | `sk-jCUWe0iXNGBHHxu4iYGTXe3lbOU30Ypf4uckmijtK6Bexnx0` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-05-27 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `05-27 08:37`
+### DeepSeek `05-27 08:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-EGM8yRO3IT1cal4YBpshnHBc4h5kEs1ewQY1x9DhcX5EtkmD` | deepseek-chat | 🆕 신규 | $15 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-gAan2hsb8chP6HNaqnfShiU8r3fRcxBzwvmKtjcHzgdO9U6t` | deepseek-chat | 🆕 신규 | $19 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-dgOl2bWJbEpbjqZNXxH46soNtnN0SoVkYS3DV8EFW8BdqCxk` | deepseek-chat | 🆕 신규 | $14 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-dClzKrWSsI2ptlGWWdWIwCmPYbyBfbGRTx2G4f9lHwFiLzTx` | deepseek-chat | 🆕 신규 | $14 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-8mdDq17o0K9zJ564ww2fyewXas2csyK0zpEsi1JAFrn9dJkm` | deepseek-chat | 🆕 신규 | $15 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-MViJ9TjLbo4lciAkdmSttnZXkXPJci1Bta4UuylwkQnNXk86` | deepseek-chat | 🆕 신규 | $11 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
 
-### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `05-27 08:37`
+### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `05-27 08:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -106,7 +101,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-VrmgRiZX17ORpq5vnBD54CuzI54HzoWeqX6AjW3Iz2tOd8TR` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-SeodtCIAPA9aAazWMHUZcc0Xr4CFZTOTYa6BNknvzAT5mf0a` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `05-27 08:37`
+### Kimi `05-27 08:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -117,7 +112,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-8tP25tC4Z0SXw53E9tIWuR21W69VDqlMb0g0nGq2RIURjeSI` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-05-27 | Kimi long-context general model |
 | `sk-agA3ZWsT50zauu7Yut1siURisRijrSLeJjw8G5Z7XRQqx8wR` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-05-27 | Kimi long-context general model |
 
-### Image / Audio / Embedding `05-27 08:37`
+### Image / Audio / Embedding `05-27 08:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
