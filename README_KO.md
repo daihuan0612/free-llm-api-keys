@@ -54,11 +54,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-05-28 17:07 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-05-28 17:22 (UTC+8)
 
 ### 주요 모델
 
-### GPT-5.5 `05-28 17:07`
+### GPT-5.5 `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -67,7 +67,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-AlWf6grJMr43y4NYLFBm3ElGMBNcXOKQHyM9uE0kkOfTWXVp` | gpt-5.5 | 🆕 신규 | $20 | 5 RPM | 2026-05-29 | Premium GPT flagship |
 | `sk-sDdnSTtXyRtnZcRsUdvxKcPE0UD2Jv7WzvUWMuXcVw1cmb7G` | gpt-5.5 | 🆕 신규 | $20 | 5 RPM | 2026-05-29 | Premium GPT flagship |
 
-### Claude Opus 4.7 `05-28 17:07`
+### Claude Opus 4.7 `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -78,7 +78,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-oSpDazuu3yRS7aW7YewrmM2HlFSJOMTraj4OtvtO1XYxFWu3` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 | `sk-jcKAQYEbjwnGNrL6nJBchqiXCBnzlf1Col74byVRaVWp4jqh` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 
-### Gemini `05-28 17:07`
+### Gemini `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -89,22 +89,22 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-wJXnp9Qe7m9x9AlRb1B9hMJmS08NQpWrxTc1TZmSOcFkDIJX` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-05-29 | Fast Gemini option for long-context general chat |
 | `sk-MNj5JufH4gWXVI4AJeDy6bOPzvSpWz7uat2rCQ6q3tFKQIbN` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-05-29 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `05-28 17:07`
+### DeepSeek `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-iDxPAd6FIHOGD3y6HnOUtB8Au9stpnkGWGPtGeTt3xN9ReZ5` | deepseek-chat | 🆕 신규 | $14 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
-| `sk-CHAGiXCC3pB1fTd7f1P0rT0bJ7Wu3kj3pW3BhzxWfDdsGm0C` | deepseek-chat | 🆕 신규 | $19 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
-| `sk-FqN7XLAoSfjQXcmxZLauvPrGhOjmj3W83niREyj50k91gP6v` | deepseek-chat | 🆕 신규 | $13 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
-| `sk-D6KQ60JwuIqAswJhTQ2yNx1zK3jkVh9pGSCy3pcGDZ6cJPke` | deepseek-chat | 🆕 신규 | $17 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
+| `sk-DQ54hjKlTDaMiSUaSvOweBAqdGeFxGy8lQdIe84AbIb8Kw7f` | deepseek-chat | 🆕 신규 | $8 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
+| `sk-fNfq4VbeEWl9vYkxa1e19cw9mgpimrwFOkUOSdgpMivsiNvY` | deepseek-chat | 🆕 신규 | $15 | 20 RPM | 2026-05-30 | Everyday chat, coding, translation, writing |
 
-### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `05-28 17:07`
+### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-9Iq0kKTEaXNz6360DIjX3FCoYxaEm0EVV7yXI0eS7ZmLj3ab` | smart-chat | 🆕 신규 | $15 | 10 RPM | 2026-05-30 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-Dh02Q34HFmEbHssiEzCKsBtE7NKomQnAZif9zwuv3OqI2RUT` | smart-chat | 🆕 신규 | $14 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-yaD9CgzlseqVYMBnDepfUsrElvk5jTNKA5FYJso5hCNzKPG3` | smart-chat | 🆕 신규 | $10 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-KB2GcU6kCZpaq68WJ2QEWWYJ461Z8DK945nZZSnNJf5DP43F` | smart-chat | 🆕 신규 | $10 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `05-28 17:07`
+### Kimi `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -115,7 +115,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-cPxgxwJOMdCJMSPHx6s56Aq7WPlPO5hL8UiYhwUWKMw4p7VB` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Kimi long-context general model |
 | `sk-j5GwRLDjK4X44BfeF9bgBm3vewNgzTt2OAzpI99Iapnj2nG9` | kimi-k2.5 | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Kimi long-context general model |
 
-### Image / Audio / Embedding `05-28 17:07`
+### Image / Audio / Embedding `05-28 17:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
