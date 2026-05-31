@@ -43,18 +43,18 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-05-31 17:22 (UTC+8)
+> ⏰ Última actualización: 2026-05-31 17:37 (UTC+8)
 
 ### Modelos destacados
 
-### GPT-5.5 `05-31 17:22`
+### GPT-5.5 `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
 | `sk-1EL1QJ3YyLpt7wEi0lzKELZdtxnbx9eQr34GKicbtTBxSDld` | gemini-2.5-pro | 🆕 Nueva | $20 | 5 RPM | 2026-06-01 | KM recommended alternative for Premium GPT flagship |
 | `sk-KNKalSmgCb3l563aL07xrJU0fM1ezBT47ZEGFnNUUBPo9cfy` | gemini-2.5-pro | 🆕 Nueva | $20 | 5 RPM | 2026-06-01 | KM recommended alternative for Premium GPT flagship |
 
-### Claude Opus 4.7 `05-31 17:22`
+### Claude Opus 4.7 `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -65,7 +65,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-pSNRhFDVYrhQvrbSO5L9TSZ0nBbI77eK0kEuboftxSEScDVE` | gemini-2.5-pro | 🆕 Nueva | $20 | 5 RPM | 2026-06-01 | KM recommended alternative for Claude Opus flagship |
 | `sk-GPw0ScwJUW6QlD9fsAQaF81xmnpMG4W5R7T8eZsGYucBADD0` | gemini-2.5-pro | 🆕 Nueva | $20 | 5 RPM | 2026-06-01 | KM recommended alternative for Claude Opus flagship |
 
-### Gemini `05-31 17:22`
+### Gemini `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -76,7 +76,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-nTfHxNBXcnyJ9DNQ0TJZedszb1Nc7LlAoLDFCy6TIpjgKM2h` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-05-31 | Fast Gemini option for long-context general chat |
 | `sk-3krcl824QFdmvZBPMZNsAqomkUN9Q3Xoe4JHu6lr5ih64x9V` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-05-31 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `05-31 17:22`
+### DeepSeek `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -84,7 +84,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-bV7866QWmlH0Obqm7LoraEGi0drUfGV3FTNSEC7s6hhk3Arl` | gemini-2.5-pro | 🆕 Nueva | $20 | 20 RPM | 2026-05-31 | KM recommended alternative for Everyday chat, coding, translation, writing |
 | `sk-sw5qWnuQDGXV4mnkDOmaUHDIqumQdyHGY7sNeaQlEAOPa2gz` | gemini-2.5-pro | 🆕 Nueva | $20 | 20 RPM | 2026-05-31 | KM recommended alternative for Everyday chat, coding, translation, writing |
 
-### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini ruteo automático) `05-31 17:22`
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini ruteo automático) `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -93,7 +93,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-U09uhcFByK7gcXlZnDVm59gDE1DETtRRK3egrJvWUQNnCQ91` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-jBoxQKxYrRH8RVittE0yjid5XtjuaxlGjGSoi1ywvdb7V2UD` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `05-31 17:22`
+### Kimi `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -104,7 +104,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-aO9aX8RgURlZhgrDhlsVUrIHqvR6rywi9eGIJ8UIbxXKTRTj` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
 | `sk-SinpMkPgoWxgkKjs865htxXZ9wLh06uABoZOlq5bNmgNRMTg` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
 
-### Image / Audio / Embedding `05-31 17:22`
+### Image / Audio / Embedding `05-31 17:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
