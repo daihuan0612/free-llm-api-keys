@@ -17,7 +17,7 @@ Copie uma chave da tabela, cole no seu app e comece a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-29-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-26-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Siga_no_X-novas_chaves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -43,11 +43,11 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-06-02 02:37 (UTC+8)
+> ⏰ Última atualização: 2026-06-02 02:52 (UTC+8)
 
 ### Modelos em destaque
 
-### GPT-5.5 `06-02 02:37`
+### GPT-5.5 `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -56,17 +56,13 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-9cycgCYhq4M9B7UGCkdO5RM6tYBymrAllBp9rHOoqcaR33Qg` | gemini-2.5-pro | 🆕 Nova | $20 | 5 RPM | 2026-06-02 | KM recommended alternative for Premium GPT flagship |
 | `sk-4Vt0D4rQwMStPBHswFCANvgZ2AkeflMKMpfOxmxAUqy61fFs` | gemini-2.5-pro | 🆕 Nova | $20 | 5 RPM | 2026-06-02 | KM recommended alternative for Premium GPT flagship |
 
-### Claude Opus 4.7 `06-02 02:37`
+### Claude Opus 4.7 `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-oKRdukD3RceGIv6YtMfFs2sFwQlQFVCQe1vn4EwrIDCmxgcl` | claude-opus-4-7 | 🆕 Nova | $17 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-mxFF8sXyDZmr68Z93DGIaBoSM7amY8DjhZo7V1RCVSDeayRG` | claude-opus-4-7 | 🆕 Nova | $16 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-EmWDXTRVklnRlXyrPmseDFsLyhEjNN8ZXtLqYsSJlhSaP63R` | claude-opus-4-7 | 🆕 Nova | $15 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-5MbarDf3MTCHOnbqzKp8lHrL2z4M0Y6jmNTLTpdCiLTrfdHK` | claude-opus-4-7 | 🆕 Nova | $15 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-C01lX5fUKhW2yXz0FfPBRMcNTvbjT9u8NvKb6HWXNl274CFN` | claude-opus-4-7 | 🆕 Nova | $15 | 5 RPM | 2026-06-03 | Claude Opus flagship |
+| `sk-SxHRePaewFlxdOaMUGoI1okQP0WEIO5VazLyGhsDrwyI5h9c` | claude-opus-4-7 | 🆕 Nova | $19 | 5 RPM | 2026-06-03 | Claude Opus flagship |
 
-### Gemini `06-02 02:37`
+### Gemini `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -77,7 +73,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-AZaXsOWfo3wYGZ6a66hTZL5dzhxEoaSgIV440clViPs4p7Jl` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
 | `sk-JQs67IeI6xPODnGbsh6rbPdkCXGfrWM7298XhHNGgoOEliF6` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `06-02 02:37`
+### DeepSeek `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -85,25 +81,26 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-es7rQPIKqbD6nVAYLsQtetZFxFodkwz2pcuU5TB3sjTFlytY` | gemini-2.5-pro | 🆕 Nova | $20 | 20 RPM | 2026-06-02 | KM recommended alternative for Everyday chat, coding, translation, writing |
 | `sk-VIk9vgJe1x2eursqN5XK8tkiHzT3h2GOCfNRWhOc014twzrm` | gemini-2.5-pro | 🆕 Nova | $20 | 20 RPM | 2026-06-02 | KM recommended alternative for Everyday chat, coding, translation, writing |
 
-### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `06-02 02:37`
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
 | `sk-zHzbD12KwRV5Y4X3zw6WiSaXMiv9KaOwOjRNHzzrGaFFaahX` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-4NHFlxRdsc9ERcrxRo80SgopQAh8YMKZ8n4yPa3OhRNnxKO9` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-i7wrkRCShwDir7t9JpXS3PZQ7GMPNYDUwq7yeoYPFZcliARW` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-0Tt7qH5qzizkZKa2nkPuhVXr5KcJljHpJTH7JPej8bPARDrv` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-UF3SLXbAcUsKINmEWE9LPXpQYh2yOasEFtbJpjRhxULy9o4K` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-lXoCL5kR5PG7yG3kUlOVmU1ukFj409y1vyHZCfPiCDQaTqsg` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-06-03 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-02 02:37`
+### Kimi `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-bcQH2AVwtrI7thntbpVd0s6zgOzUDMtsqkUgpDgZLcyuNP6n` | kimi-k2.5 | 🆕 Nova | $11 | 10 RPM | 2026-06-03 | Kimi long-context general model |
-| `sk-JYS2LHLQ5jUrLiM52ZPmkngOWQ7lBDOtd5eWzrsB8cOMz8yW` | kimi-k2.5 | 🆕 Nova | $15 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-RkwtJRe5hKPVW7Bl3blOpHO3po5CB4hwpxsLcHY4FsaDDbff` | kimi-k2.5 | 🆕 Nova | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-t4sybNOkpcqjUd4Bj2sKYRRsx4BsEaOV9Dq49PIPDya7p40s` | kimi-k2.5 | 🆕 Nova | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-cjCrJTRkStgzuNmnKCBzXVcFxkS6etMS5xI2Ajr86vwNfVY8` | kimi-k2.5 | 🆕 Nova | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-1FYgMmbwZslPUT0EjceNaU1dIitZnMknbuP1pGfkoE3vfCy4` | kimi-k2.5 | 🆕 Nova | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-02 02:37`
+### Image / Audio / Embedding `06-02 02:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
