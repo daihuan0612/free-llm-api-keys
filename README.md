@@ -58,7 +58,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-02 08:31 (UTC+8)
+> ⏰ Last updated: 2026-06-02 08:37 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -72,7 +72,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. If a target model has no KM recommendation or quota, it tries a quota-backed KM-recommended model in the same capability; otherwise that shelf stays hidden.
 
-### GPT-5.5 `06-02 08:31`
+### GPT-5.5 `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -81,19 +81,15 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Claude Opus 4.7 `06-02 08:31`
+### Claude Opus 4.7 `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-oKRdukD3RceGIv6YtMfFs2sFwQlQFVCQe1vn4EwrIDCmxgcl` | claude-opus-4-7 | 🆕 New | $17 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-mxFF8sXyDZmr68Z93DGIaBoSM7amY8DjhZo7V1RCVSDeayRG` | claude-opus-4-7 | 🆕 New | $16 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-EmWDXTRVklnRlXyrPmseDFsLyhEjNN8ZXtLqYsSJlhSaP63R` | claude-opus-4-7 | 🆕 New | $15 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-5MbarDf3MTCHOnbqzKp8lHrL2z4M0Y6jmNTLTpdCiLTrfdHK` | claude-opus-4-7 | 🆕 New | $15 | 5 RPM | 2026-06-03 | Claude Opus flagship |
-| `sk-C01lX5fUKhW2yXz0FfPBRMcNTvbjT9u8NvKb6HWXNl274CFN` | claude-opus-4-7 | 🆕 New | $15 | 5 RPM | 2026-06-03 | Claude Opus flagship |
+| `sk-SxHRePaewFlxdOaMUGoI1okQP0WEIO5VazLyGhsDrwyI5h9c` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-03 | Claude Opus flagship |
 
 ---
 
-### Gemini `06-02 08:31`
+### Gemini `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -106,7 +102,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### DeepSeek `06-02 08:31`
+### DeepSeek `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -116,7 +112,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-02 08:31`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -129,15 +125,19 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Kimi `06-02 08:31`
+### Kimi `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-Mtt7vmR7sh6ZTCmPWwYEqqbKaHJsruwP8hG72O6yhhClPsYQ` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-04 | Kimi long-context general model |
+| `sk-6ZM5iiWns0iiUSAls1ByL88dPIpPiPwkOmPIIHviTqifvlIt` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-Wy9skxkZbnmbAAWIpUaM0TY9a3ww8dBnha6376QqfFhGkg0u` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-djp4V384zcOhPX0c8eaDn4Txvtmqm35NFMZaRkoneajaevW3` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-QVwnRATJJXZlvqcvYkF5Ko0SKDCJGIoNRckiuvVON3C9ICcG` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-03 | Kimi long-context general model |
+| `sk-JpXs8og21AO66nKEjkzqw7kfyLi0hkvBhtEcbuVB97a1NbXW` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-03 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-02 08:31`
+### Image / Audio / Embedding `06-02 08:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
