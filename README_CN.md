@@ -17,7 +17,7 @@
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/可用_Key-29-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/可用_Key-27-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/支持模型-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/在_X_关注-获取新key-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -57,7 +57,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-03 14:31 (UTC+8)
+> ⏰ 最后更新： 2026-06-03 14:37 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -71,7 +71,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；目标模型没有 KM 推荐或额度不足时，会尝试 KM 推荐且有额度的同类模型，仍不可用则留空不展示。
 
-### GPT-5.5 `06-03 14:31`
+### GPT-5.5 `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -82,18 +82,16 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Claude Opus 4.7 `06-03 14:31`
+### Claude Opus 4.7 `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-QoZC8vjH13DzyR5kMZgOw9P6AvGmElc4rhB5e6BhaseqHlVY` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-05 | Claude Opus 旗舰模型 |
-| `sk-qG3qR4tOtbMhitE9yBx5tZAsVa87SuUpFjiHsUdrWOM642o7` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-05 | Claude Opus 旗舰模型 |
-| `sk-8TYoBCcI70L9BwTmj9HUgp53W35LZdcQeYx7H5nB6ZGEvONa` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-05 | Claude Opus 旗舰模型 |
-| `sk-xXmQ23nuHFjyCHXFDAKy6mg6pqKtE2kX1tLC14CYGyWmUrw4` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-05 | Claude Opus 旗舰模型 |
+| `sk-GiY1IsrIm4k2NHFFtMGBw7hA1aigFakPF6mkagMKAwhDgdfD` | claude-opus-4-7 | 🆕 新增 | $18 | 5 RPM | 2026-06-04 | Claude Opus 旗舰模型 |
+| `sk-pRmvcRsttaVM4w4LM9ifg7LDv1xRC7hYPDOSvMRe9N1fgBhi` | claude-opus-4-7 | 🆕 新增 | $6 | 5 RPM | 2026-06-04 | Claude Opus 旗舰模型 |
 
 ---
 
-### Gemini `06-03 14:31`
+### Gemini `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -106,7 +104,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### DeepSeek `06-03 14:31`
+### DeepSeek `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -116,7 +114,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-03 14:31`
+### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -129,17 +127,17 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-03 14:31`
+### Kimi `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-Y0zUkkiE5V1pSZhvUShjx3VbVJYWScaMi3P8WeK08LRg3r8X` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-05 | Kimi 长上下文通用模型 |
-| `sk-J154IFIPzdDThWmV4ZSV1pYHfMg0oXLzfGetNw9bMGDXyWii` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-05 | Kimi 长上下文通用模型 |
-| `sk-4fhUV3FpkGNSg6uJ72s3d4TMDi4iIZxLBoozpZmlRUressIY` | kimi-k2.5 | 🆕 新增 | $16 | 10 RPM | 2026-06-05 | Kimi 长上下文通用模型 |
+| `sk-irjuhLPRJdHCxF2EjGgVJ2Evg8E6PyR0nFrwR5rxdXdzQ9He` | kimi-k2.5 | 🆕 新增 | $12 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
+| `sk-Qop2jYIp5oJ1W3VpUQYf28hWNkfJ68utgAaq2wniCZnN7vPw` | kimi-k2.5 | 🆕 新增 | $16 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
+| `sk-2rlw5IYV1ix8ygX832rcmWunDTYep0qdSmVSOHXk4kQN4ju0` | kimi-k2.5 | 🆕 新增 | $15 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-03 14:31`
+### 图像 / 语音 / 向量化 `06-03 14:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
