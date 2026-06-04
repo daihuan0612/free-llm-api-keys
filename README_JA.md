@@ -57,18 +57,18 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-04 10:07 (UTC+8)
+> ⏰ 最終更新: 2026-06-04 10:22 (UTC+8)
 
 ### 主要モデル
 
-### GPT-5.5 `06-04 10:07`
+### GPT-5.5 `06-04 10:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
 | `sk-KxZrrOZZ2kt4m0SIJT0zN9iEVRH9W6gfEkfmAnqmPz3vkruh` | gemini-2.5-pro | 🆕 新規 | $20 | 5 RPM | 2026-06-05 | KM recommended alternative for Premium GPT flagship |
 | `sk-iTvAN33LSia8nRbbHsaVAY2D95lrK3zo8h7Qe1RICIRrIjYC` | gemini-2.5-pro | 🆕 新規 | $20 | 5 RPM | 2026-06-05 | KM recommended alternative for Premium GPT flagship |
 
-### Gemini `06-04 10:07`
+### Gemini `06-04 10:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -79,7 +79,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-UapGlJuQyvDboowuY890a3Qyqd5j5fMrKH2vAgt2v6a9u3Ct` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
 | `sk-ncGnn0fCZ3BEmvow31TctGEhm7GttX7vN0dAksCsb2M1COh3` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-04 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `06-04 10:07`
+### DeepSeek `06-04 10:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -87,7 +87,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-ADscW2NDvYKkuwHvnsEw6IiDtcq7YzKdcOXmNsGwjmGBFyU2` | gemini-2.5-pro | 🆕 新規 | $20 | 20 RPM | 2026-06-04 | KM recommended alternative for Everyday chat, coding, translation, writing |
 | `sk-ACB81N7ARULaC4fCTsxwM9j8U2IjNLKCdNe7VlRYLCHRTlK9` | gemini-2.5-pro | 🆕 新規 | $20 | 20 RPM | 2026-06-04 | KM recommended alternative for Everyday chat, coding, translation, writing |
 
-### Image / Audio / Embedding `06-04 10:07`
+### Image / Audio / Embedding `06-04 10:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
