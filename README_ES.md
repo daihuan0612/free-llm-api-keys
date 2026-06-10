@@ -17,7 +17,7 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Claves_Disponibles-35-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Claves_Disponibles-29-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Sigue_en_X-nuevas_claves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -43,35 +43,29 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-06-10 19:22 (UTC+8)
+> ⏰ Última actualización: 2026-06-10 19:37 (UTC+8)
 
 ### Modelos destacados
 
-### GPT-5.5 `06-10 19:22`
+### GPT-5.5 `06-10 19:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
-| `sk-UVw54m3qn3eg8GxJbQZzsm7Pe4Jam3N0rOEHI22BRLpqbIHw` | gpt-5.5 | 🆕 Nueva | $11 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-aOaxuJMIbqFWIVzOvXvbhDJHRLsy0KIRuiQ1aMgIZmefJ6fL` | gpt-5.5 | 🆕 Nueva | $17 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-Xqjo34qSDX7GfbO22qArUq8hcoLSpsbb3w7npbaiu8fLHOxr` | gpt-5.5 | 🆕 Nueva | $13 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-JQvoXUr8SnI3hUh3Fdcr8lm2SLlrihBiwKZAeOk8zZqd6vQl` | gpt-5.5 | 🆕 Nueva | $11 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-t5hVbEYmjucU1BxrqUDJyMI0cSkRsnNKM8nxxB0ZFz0bIUaR` | gpt-5.5 | 🆕 Nueva | $14 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-2bLqInle779CZ1WzxnG3C85tdGIwBFliEfJIYeauB8TgIIk1` | gpt-5.5 | 🆕 Nueva | $15 | 5 RPM | 2026-06-11 | Premium GPT flagship |
 
-### Claude Opus 4.7 `06-10 19:22`
+### Claude Opus 4.7 `06-10 19:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
 | `sk-caXU7tbL2o381id9YE2SG4KaqeXEgBFvwigzsjLdlj5Kj91A` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-10 | Claude Opus flagship |
 | `sk-fBHnfEgMaNx9dGhKvYElWMeneebDCYeoDyu1QHUCukDkRctI` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-10 | Claude Opus flagship |
 
-### Kimi `06-10 19:22`
+### Kimi `06-10 19:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
-| `sk-azPvTjNdrLmTWXc6ESr70VJcJqYpVf0uaAFg3KXQFhsRSGsP` | kimi-k2.5 | 🆕 Nueva | $19 | 10 RPM | 2026-06-12 | Kimi long-context general model |
-| `sk-zRdhMqJDjCcuKtCu2ZUQ40czk8HeVmTgYM5jD6bpnIeqvAaa` | kimi-k2.5 | 🆕 Nueva | $19 | 10 RPM | 2026-06-12 | Kimi long-context general model |
-| `sk-C0IsD9cQXhsx22NRdW8dtOECPDWTObZRpBCiueVy6wSoQbf8` | kimi-k2.5 | 🆕 Nueva | $11 | 10 RPM | 2026-06-12 | Kimi long-context general model |
-| `sk-hxHnJNg6n8lMsefMjzfXhm0gIn9VtMyU4u3YPFivBERnKo66` | kimi-k2.5 | 🆕 Nueva | $11 | 10 RPM | 2026-06-12 | Kimi long-context general model |
+| `sk-G7sK2VmKWQnWp0FhArYHH4n6hDu6xCevF0xedr9g3pj5zDCx` | kimi-k2.5 | 🆕 Nueva | $18 | 10 RPM | 2026-06-12 | Kimi long-context general model |
+| `sk-Tahfd3FWJFgLciVqG0yrboYRFHM5DAMDfQtMRaikgNyibtHw` | kimi-k2.5 | 🆕 Nueva | $10 | 10 RPM | 2026-06-11 | Kimi long-context general model |
 
 ## 🚀 Cómo Usar
 
