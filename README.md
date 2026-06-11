@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-11 11:07 (UTC+8)
+> ⏰ Last updated: 2026-06-11 11:22 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### GPT-5.5 `06-11 11:07`
+### GPT-5.5 `06-11 11:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -93,7 +93,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-11 11:07`
+### Gemini `06-11 11:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -106,16 +106,16 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-11 11:07`
+### Kimi `06-11 11:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-vTcAg3xzLtx8bCSS6cZcw3Wwg7qVARBMQMMoQ24pJ1JDEOTr` | kimi-k2.5 | 🆕 New | $17 | 10 RPM | 2026-06-13 | Kimi long-context general model |
-| `sk-vImSj5WFz4aOSY8KXQzbaaYOhyDk1kEhHGWX4MBDd3QznVaJ` | kimi-k2.5 | 🆕 New | $5 | 10 RPM | 2026-06-12 | Kimi long-context general model |
+| `sk-9nzaC3pJX1NDDPnQDt9zMDKNPgKd2nq0Ecdtvs1G9ElAclF1` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-12 | Kimi long-context general model |
+| `sk-N0FpJ3mxlZAodPP8CqKSFUkKiTqao2SznJFZWt6zniTbSJ5d` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-12 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-11 11:07`
+### Image / Audio / Embedding `06-11 11:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -488,6 +488,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-11
+- 🆕 Added 2 keys (kimi-k2.5), cleaned 2 expired
 - 🆕 Added 2 keys (kimi-k2.5), cleaned 9 expired
 - 🆕 Added 3 keys (kimi-k2.5), cleaned 3 expired
 - 🆕 Added 3 keys (kimi-k2.5), cleaned 2 expired
