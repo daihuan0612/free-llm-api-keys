@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-12 21:52 (UTC+8)
+> ⏰ Last updated: 2026-06-12 22:07 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -262,13 +262,13 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-12 21:52`
+### Kimi `06-12 22:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-iuecCauTql8SQx3shDw5F9LyZjOUX5TCnFVhE7GJD04lXJK7` | kimi-k2.5 | 🆕 New | $14 | 10 RPM | 2026-06-14 | Kimi long-context general model |
-| `sk-nM79XomNzeiA8P6gycNWMUU6owGUU1oCB0hiujzVkUFnatf2` | kimi-k2.5 | 🆕 New | $12 | 10 RPM | 2026-06-14 | Kimi long-context general model |
-| `sk-oFteq9yNmckpw4ruJk2Pa9aSTxSEVUM4uoO6fP0JiTwGiBqV` | kimi-k2.5 | 🆕 New | $11 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-iSjuGoUBU8ZqUqvekcYBsGnshkCEZmzyPuo73K9b6xhpe1z8` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-EgSBpjizK1FE3fIl7vUI5GosaRVqwSEpf8B7B9OEZS2R2ECI` | kimi-k2.5 | 🆕 New | $16 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-0M8gIsrO2okEo8KhGAq4R2YDrtweiH9ZZoRK6jcvpKd4eqHX` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-14 | Kimi long-context general model |
 
 
 ## 🚀 How to Use
