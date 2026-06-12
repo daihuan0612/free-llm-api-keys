@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-35-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-42-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-12 08:22 (UTC+8)
+> ⏰ Last updated: 2026-06-12 08:31 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Gemini `06-12 08:22`
+### Gemini `06-12 08:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -98,24 +98,59 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-12 08:22`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-12 08:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-WQY6dXyj6cpmb0LRxSW1V3fk6EsBIBW1BZ95CY9zj5oNrY95` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-13 | Kimi long-context general model |
-| `sk-1z0Dd3dO2EO24BU301qJAaNhgDC9GVZvoKB5czjYsIQdwgni` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-13 | Kimi long-context general model |
-| `sk-QwaOKdSdEfcCTBsng24S6NUm8I3moYkHz03jKfbRmm9GQ4sP` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-13 | Kimi long-context general model |
-| `sk-mmJNWfbzZkiEG41qb5wQlgK8lhoKtnFdn7aE9KIA2T3SMwNP` | kimi-k2.5 | 🆕 New | $17 | 10 RPM | 2026-06-13 | Kimi long-context general model |
+| `sk-bheQHb0Sg4JuLGApHbB5h5r2fNmfnzom2SGrUkCMt9WeLqdE` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-14 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-krTXR2GUP3CJGOgzylaSBYbPZ5LVtACx32dXmYXz5YXGem5f` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-14 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-GMH4pCpPtGhdJgIES0Qml4UVS1rbKzAyiCdI9gH7shxrdaVX` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-14 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-73BS8mLZYL30KETotL3psmSobUSSU5D2UjCJq13JlZmm43iI` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-14 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-jDgQkXm7S1Lzo9htZdGs9jJddbrvP0cM1Spd3LqXZYx5wnX9` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-14 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-TWOrc47AbNbuh434Y3cneiwtvN8JEj3AHd4RqSixJeQgUUNp` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-14 | Auto-routes across currently healthy low-cost chat backends |
 
 ---
 
-### Image / Audio / Embedding `06-12 08:22`
+### Kimi `06-12 08:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-8RYqnatMofvCXXKBfyt615mallLTr022x4KWLGNKli3IJGFV` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-14 | Kimi long-context general model |
+| `sk-JxWg2BmQ8XcsGf5ulfJLVFpIcHc5q2YxWRwuLbVVba7Q9iDY` | kimi-k2.5 | 🆕 New | $15 | 10 RPM | 2026-06-13 | Kimi long-context general model |
+
+---
+
+### Image / Audio / Embedding `06-12 08:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-IPtYedhW1pgeVJlPU9ICmeIxFl2IXmJEVSo5xRMfjJaO5hZc` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-12 | Text embeddings |
 | `sk-MHBvRFwy8sEYYcPqYOPmh0mQkbUgAbKsSI9MhJdeWr8OESNc` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-12 | Text embeddings |
 | `sk-nG0HrT3D6HgnCxpQL0SjdTww2Y1zn6ymxGKFhbZ5mUABUWdG` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-12 | Text embeddings |
+
+### deepseek-v4-flash `06-12 08:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-HZGT8ZpgMSntvNgq9QEmtMsyJy8LOirVFfqW3qe6NT2Ln1WH` | deepseek-v4-flash | 🆕 New | $20 | 10 RPM | 2026-06-13 | Live positive-balance channel |
+
+---
+
+### deepseek-v4-pro `06-12 08:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-M21u4EEKacauwSErZ3vVJxulxjMpoc9vivreefdWaawRBY6a` | deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-13 | Live positive-balance channel |
+
+---
+
+### poolside/laguna-xs.2:free `06-12 08:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-7lOnklMYfFyGSbDP2uVLSu2nG951sOq80Wwh6vw3331OSR3P` | poolside/laguna-xs.2:free | 🆕 New | $20 | 10 RPM | 2026-06-13 | Live positive-balance channel |
+
+---
 
 ### qwen/qwen3.6-flash `06-12 06:31`
 
@@ -482,6 +517,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-12
+- 🆕 Added 11 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro, poolside/laguna-xs.2:free), cleaned 1 expired
 - 🆕 Added 1 keys (kimi-k2.5), cleaned 2 expired
 - 🆕 Added 4 keys (kimi-k2.5), cleaned 8 expired
 - 🆕 Added 13 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro, qwen/qwen3.6-flash), cleaned 1 expired
