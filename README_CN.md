@@ -70,7 +70,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-13 13:52 (UTC+8)
+> ⏰ 最后更新： 2026-06-13 14:07 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -93,7 +93,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Gemini `06-13 13:52`
+### Gemini `06-13 14:07`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -106,30 +106,23 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-13 13:52`
+### Kimi `06-13 14:07`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-vz2ORA3bmUM1vX4BL1Y5TJwEV5cVzeZr5PN6kTxURaOGWGxr` | kimi-k2.5 | 🆕 新增 | $9 | 10 RPM | 2026-06-15 | Kimi 长上下文通用模型 |
-| `sk-eTwWcAkdSw4n7tUIm5yiONoMTd5yiWjn6YJtON0IoHaNomAD` | kimi-k2.5 | 🆕 新增 | $12 | 10 RPM | 2026-06-14 | Kimi 长上下文通用模型 |
+| `sk-Ef7a29zDY3yXewq001PC98MRKkJcNtc59ZaqT8awf5VHUiTh` | kimi-k2.5 | 🆕 新增 | $18 | 10 RPM | 2026-06-15 | Kimi 长上下文通用模型 |
+| `sk-flMRiN7wsRp04v04DdkFb0VyDNiAiBsn6V2OquTus131MYwn` | kimi-k2.5 | 🆕 新增 | $18 | 10 RPM | 2026-06-15 | Kimi 长上下文通用模型 |
+| `sk-EWlDZyQ5ZG8ABU2Ty9u0tspPZwEq93xGagDLglqoen5kIzqF` | kimi-k2.5 | 🆕 新增 | $17 | 10 RPM | 2026-06-15 | Kimi 长上下文通用模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-13 13:52`
+### 图像 / 语音 / 向量化 `06-13 14:07`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
 | `sk-UJ7D0v6jp0XxHt9AdclLC2riGhhhb2SiNVMWydyR7nlkYUgE` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-14 | 文本向量化 |
 | `sk-XWhJ1WEtUALeIExBTPzOhDcEYDgfusF4g88hQfVdi5hD3lqU` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-14 | 文本向量化 |
 | `sk-V9O4mI6WvMbpGphji0yRHelAhCmD3apzLdbys4ECxJMDPwRp` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-14 | 文本向量化 |
-
-### openrouter/owl-alpha `06-13 12:31`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-rGddGQSs7Ll4JVdEYBvuz6CE8JWexMBE2vqPcgvDRNKd6S8S` | openrouter/owl-alpha | 🆕 新增 | $20 | 10 RPM | 2026-06-14 | 来自有余额渠道的额外可用模型 |
-
----
 
 ### poolside/laguna-m.1:free `06-13 08:31`
 
