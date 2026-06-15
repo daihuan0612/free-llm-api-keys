@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-16 03:07 (UTC+8)
+> ⏰ Last updated: 2026-06-16 03:23 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,12 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-
-<!-- daily-grant-keylist:start -->
-> 🎁 Want private 24h access to selected models? Join the daily grant on X: [@getkeyway](https://x.com/getkeyway). Latest post: [2026-06-09 · x-ai/grok-4.3](https://x.com/getkeyway/status/2064238449427980781). Stars are optional and never required to win.
-<!-- daily-grant-keylist:end -->
-
-### Claude Opus 4.7 `06-16 03:07`
+### Claude Opus 4.7 `06-16 03:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -103,7 +98,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-16 03:07`
+### Gemini `06-16 03:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -116,7 +111,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-16 03:07`
+### Kimi `06-16 03:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -129,7 +124,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Image / Audio / Embedding `06-16 03:07`
+### Image / Audio / Embedding `06-16 03:23`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -430,6 +425,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-16
+- 🆕 Added 0 keys (no new keys), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 13 expired
 - 🆕 Added 24 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro, google/gemini-3.1-flash-lite, ibm-granite/granite-4.1-8b, inclusionai/ring-2.6-1t, nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free, openai/gpt-chat-latest, openrouter/owl-alpha, poolside/laguna-m.1:free, poolside/laguna-xs.2:free, x-ai/grok-4.3, qwen/qwen3.6-35b-a3b), cleaned 2 expired
 - 🆕 Added 0 keys (no new keys), cleaned 3 expired
