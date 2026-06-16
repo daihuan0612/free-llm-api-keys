@@ -57,11 +57,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-16 11:52 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-16 12:07 (UTC+8)
 
 ### 주요 모델
 
-### Gemini `06-16 11:52`
+### Gemini `06-16 12:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -72,7 +72,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-m1pmqqkO60FNQiEvb7zMRQPe6tOj2JUa8zjqBQG4Vu9MMbsG` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-16 | Fast Gemini option for long-context general chat |
 | `sk-MsLMVROXmo9ut4byG4LabVELpiOEwzCnkHOqX778ZfogCo5v` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-16 | Fast Gemini option for long-context general chat |
 
-### Kimi `06-16 11:52`
+### Kimi `06-16 12:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -81,7 +81,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-7eUcIZCTMv1kq13dFpCkzrlfsbiNbDUH8ACgEBcQlplwrXIM` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
 | `sk-Puw46Hbs3Dv0OWkDpmnQjkHHDoXxmFm5OEGsfDWiTTRYNDcw` | kimi-k2.5 | 🆕 신규 | $18 | 10 RPM | 2026-06-18 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-16 11:52`
+### Image / Audio / Embedding `06-16 12:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
