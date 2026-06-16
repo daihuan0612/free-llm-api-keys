@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-48-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-46-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-17 06:52 (UTC+8)
+> ⏰ Last updated: 2026-06-17 07:07 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -158,15 +158,19 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Claude Opus 4.7 `06-17 06:52`
+### Claude Opus 4.7 `06-17 07:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-Ko41fbaY8RWa1F5CsWRx29z37KDGSwghotHOTFR8ZpxQAmjI` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FdL9Ej9GoPAtISe7FihuJFbb2rpuLi6yXCfVC2Q2eBakp6R7` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-l1y11wVV1t1Bo1bHijjSQjn1aCNebgf3fhtLz7zZg61IfVAr` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FFeCdCNr0q87U3KxL4Yk4b43XlExLSb2zJxvxsxBkI0RhknE` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-r2U9eBeefc2bozPLK54ycSI8Z5kJrLRfPeZGA507xffRHD7S` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-6QKd19iDga9wevkxASe8zPHOCu0D3FKwCrNfqsXq5Fl8hOXi` | claude-opus-4-7 | 🆕 New | $6 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 
 ---
 
-### Gemini `06-17 06:52`
+### Gemini `06-17 07:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -179,29 +183,16 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-17 06:52`
+### Kimi `06-17 07:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-TaZRqT1au5LY4hznj0IGdTq1jIk8EbyJQLi8T70uTqaNP2RA` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-Cs2cTqzZnnkGnUU13EMCufLqTYK2kQCLwGXbpIJt6MIH76Re` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-t84LFjObIlq27qCwqOvVIdZTiEyQmiIdLVqJX37Qj2srjioM` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-mfNQYFnnuyZRB2CJf6J293hIkTckSC4pQLya11Puiiv10D92` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-325Ld8qivYZlXRGv2d1EHqUa884xCraXhqP3Cv5KEEqV4tjt` | kimi-k2.5 | 🆕 New | $17 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-g4OFO2aOxgSxl0P7ldUbggT83ecoUghMYdXFS0jW1WOQCrfc` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-18 | Kimi long-context general model |
 
 ---
 
-### Kimi `06-17 06:52`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-kxn3dsb3ggV3ppsQNw1cYMLRLk2dADyGeIFLjc2xfOSiL32T` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
-| `sk-91soSQh2nkFeMCxaNbBP0DwvAiQBDRcNAa810tLdSo45FSz1` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
-| `sk-AE4foq131WlsAoZa4qNSBQd3KFvbEvZVjOORMZDRcGsaFIbA` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
-| `sk-qDli4vF82IkyNZmwMklWpX3bNGXjh3Sfq285VgiJfOyqm9KB` | kimi-k2.5 | 🆕 New | $10 | 10 RPM | 2026-06-18 | Kimi long-context general model |
-
----
-
-### Image / Audio / Embedding `06-17 06:52`
+### Image / Audio / Embedding `06-17 07:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -566,6 +557,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-17
+- 🆕 Added 7 keys (kimi-k2.5, claude-opus-4-7), cleaned 5 expired
 - 🆕 Added 26 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro, baidu/cobuddy:free, openrouter/owl-alpha, perceptron/perceptron-mk1, deepseek/deepseek-v4-flash, deepseek/deepseek-v4-pro, inclusionai/ling-2.6-1t:free, openai/gpt-5.5, openai/gpt-5.5-pro, qwen/qwen3.5-plus-20260420, qwen/qwen3.6-27b, qwen/qwen3.6-max-preview, moonshotai/kimi-k2.7-code, nvidia/nemotron-3-ultra-550b-a55b, claude-opus-4-7), cleaned 2 expired
 - 🆕 Added 2 keys (kimi-k2.5, claude-opus-4-7), cleaned 1 expired
 - 🆕 Added 8 keys (kimi-k2.5, claude-opus-4-7), cleaned 1 expired
