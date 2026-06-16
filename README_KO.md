@@ -57,11 +57,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-16 15:52 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-16 16:07 (UTC+8)
 
 ### 주요 모델
 
-### Claude Opus 4.7 `06-16 15:52`
+### Claude Opus 4.7 `06-16 16:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -72,7 +72,7 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-l1y11wVV1t1Bo1bHijjSQjn1aCNebgf3fhtLz7zZg61IfVAr` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 | `sk-FdL9Ej9GoPAtISe7FihuJFbb2rpuLi6yXCfVC2Q2eBakp6R7` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 
-### Gemini `06-16 15:52`
+### Gemini `06-16 16:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -83,14 +83,16 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-m1pmqqkO60FNQiEvb7zMRQPe6tOj2JUa8zjqBQG4Vu9MMbsG` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-16 | Fast Gemini option for long-context general chat |
 | `sk-MsLMVROXmo9ut4byG4LabVELpiOEwzCnkHOqX778ZfogCo5v` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-16 | Fast Gemini option for long-context general chat |
 
-### Kimi `06-16 15:52`
+### Kimi `06-16 16:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-Gri56vtb3eM2Wlk9nSxZrsJdsgXyNh3e6epnqtVYVjy8mrmT` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-18 | Kimi long-context general model |
-| `sk-EwoMeb44T2neEu47bl79Gz3ExlOUORi5LLERcxOEBYqHJUWD` | kimi-k2.5 | 🆕 신규 | $17 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-fTtuqbSF5bkY9nNyuvAlMQZXvfxc9DNFGxgQ67BPbyfYmULZ` | kimi-k2.5 | 🆕 신규 | $12 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-DJ1fBtulUuXTrBaHrmnr9p9p4fdgjs86FY1PLq1UkFop9NC1` | kimi-k2.5 | 🆕 신규 | $14 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-LEGl5XVwMadxrcCsrsnuUQL3LevhYrNKQWDQPhzGnhOKvVkO` | kimi-k2.5 | 🆕 신규 | $10 | 10 RPM | 2026-06-18 | Kimi long-context general model |
+| `sk-bQ4q47NDL2GR2HAUstJmeYrYIdUxgQHKiK7HK0pCPPq0L2IZ` | kimi-k2.5 | 🆕 신규 | $14 | 10 RPM | 2026-06-18 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-16 15:52`
+### Image / Audio / Embedding `06-16 16:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
