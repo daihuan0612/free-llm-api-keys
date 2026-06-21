@@ -1,7 +1,19 @@
-"""FreeLLMShare — Compare responses from different models. Usage: pip install openai && python multi_model.py"""
+"""Compare responses from several FreeLLMShare-compatible models.
+
+Usage:
+    pip install openai
+    export OPENAI_API_KEY="your-free-llmshare-key"
+    python multi_model.py
+"""
+import os
+
 from openai import OpenAI
 
-client = OpenAI(base_url="https://aiapiv2.pekpik.com/v1", api_key="YOUR_KEY_HERE")
+api_key = os.environ.get("OPENAI_API_KEY")
+if not api_key:
+    raise SystemExit("Set OPENAI_API_KEY before running this example.")
+
+client = OpenAI(base_url="https://aiapiv2.pekpik.com/v1", api_key=api_key)
 models = ["gpt-5.5", "claude-sonnet-4-6", "deepseek-chat", "mistral-medium-latest"]
 question = "Explain quantum computing in one paragraph."
 
