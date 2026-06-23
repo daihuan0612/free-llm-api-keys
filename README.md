@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-23 12:37 (UTC+8)
+> ⏰ Last updated: 2026-06-23 12:52 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Claude Opus 4.7 `06-23 12:37`
+### Claude Opus 4.7 `06-23 12:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -98,7 +98,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-23 12:37`
+### Gemini `06-23 12:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -111,26 +111,26 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### DeepSeek `06-23 12:37`
+### DeepSeek `06-23 12:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-qxEDpvTyIGlQWmjRFHeRuUWmfbF1um9kWz67g8BzkqtMLTjD` | deepseek-chat | 🆕 New | $12 | 20 RPM | 2026-06-24 | Everyday chat, coding, translation, writing |
+| `sk-NWA2dS0tdjLNSHJ4zWQ4I27YQrmiaOZr40zU08A54EftkHoV` | deepseek-chat | 🆕 New | $10 | 20 RPM | 2026-06-24 | Everyday chat, coding, translation, writing |
+| `sk-JLfUsv84SZTLgmEACZms9IPCifzAr2yXPKd2NjXMidsk2bzq` | deepseek-chat | 🆕 New | $18 | 20 RPM | 2026-06-24 | Everyday chat, coding, translation, writing |
+| `sk-odLWdWsuLtVTsSCTkycFebGmCZTlDkU6KQRglHjuAI2NgOUs` | deepseek-chat | 🆕 New | $16 | 20 RPM | 2026-06-24 | Everyday chat, coding, translation, writing |
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-23 12:37`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-23 12:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-tLcFYgiXTSfiH9E6Dz4cIowhgmdqsbDBVEW8FNH03BznzGHh` | smart-chat | 🆕 New | $19 | 10 RPM | 2026-06-25 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-MVBBuQPk4PStRfnz0bFg1MzAugcvxbVUxpKTvnrYyoFNt97W` | smart-chat | 🆕 New | $19 | 10 RPM | 2026-06-25 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-nX8o2B91XhoaRxaDwtrnX9Et15ePPGuauVWYrGsSopNRcri1` | smart-chat | 🆕 New | $19 | 10 RPM | 2026-06-25 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-wvqIs2A4HdE5LNzQ38DAAWb9BEwvNhPRlAqdO84bZdOeAmy4` | smart-chat | 🆕 New | $19 | 10 RPM | 2026-06-25 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-eJPmNEV2h97i3WfKZSe7j5klUcu94AcWp8tihyGhoqt4Rz5p` | smart-chat | 🆕 New | $15 | 10 RPM | 2026-06-24 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-AkMS8EzTajI3cdj0doNtvffnpQmkxOuoDRGd3CzVcteMJjHI` | smart-chat | 🆕 New | $15 | 10 RPM | 2026-06-24 | Auto-routes across currently healthy low-cost chat backends |
 
 ---
 
-### Kimi `06-23 12:37`
+### Kimi `06-23 12:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -143,7 +143,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Image / Audio / Embedding `06-23 12:37`
+### Image / Audio / Embedding `06-23 12:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
