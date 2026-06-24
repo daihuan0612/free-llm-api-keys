@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-24 12:30 (UTC+8)
+> ⏰ Last updated: 2026-06-24 12:37 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Claude Opus 4.7 `06-24 12:30`
+### Claude Opus 4.7 `06-24 12:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -98,7 +98,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-24 12:30`
+### Gemini `06-24 12:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -111,18 +111,16 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### DeepSeek `06-24 12:30`
+### DeepSeek `06-24 12:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-eqxLsHCKlTdgWGmC1iKwj1L8bZltsmUZQz5VopgLR4TDUhlZ` | deepseek-chat | 🆕 New | $20 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
-| `sk-boe4SxYtfoBKL9NlRfPJwI3o5KTvt4EmdXKxnmEmxZZIKbew` | deepseek-chat | 🆕 New | $20 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
-| `sk-NAuuopIVVMFuoHcj04YBiNvp4qmSgtSUesGRLO2lrunL4NU0` | deepseek-chat | 🆕 New | $20 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
-| `sk-UobT9NuFBRcbhqKSy7uJDbr8m5ejXYM9MSNBgY35ENaprvr6` | deepseek-chat | 🆕 New | $20 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
+| `sk-qf2uatWQjby5AbmkeMymvC4XroMLMvAKBvFYA32j1ULiNnGh` | deepseek-chat | 🆕 New | $10 | 20 RPM | 2026-06-25 | Everyday chat, coding, translation, writing |
+| `sk-odLWdWsuLtVTsSCTkycFebGmCZTlDkU6KQRglHjuAI2NgOUs` | deepseek-chat | 🆕 New | $9 | 20 RPM | 2026-06-24 | Everyday chat, coding, translation, writing |
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-24 12:30`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-24 12:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -135,15 +133,19 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-24 12:30`
+### Kimi `06-24 12:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-FhugRmXYj8GDIuiUgByPTQNFidrW41GYRz7LtSn8P8IHslO2` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-26 | Kimi long-context general model |
+| `sk-DqTVpPiqrdAa84JpH3Wt2Rva9mFjuqB3CPax6VvohR1nildt` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-26 | Kimi long-context general model |
+| `sk-QDdwuBLIu74Hu9gaj8liMC27PqCJPVO2dPw00IjyHU2VSpiL` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-26 | Kimi long-context general model |
+| `sk-VNcA8by8lqyZzDl71lHrR4EQ9qGN3qF64Ek2YJk4zZNEBGpn` | kimi-k2.5 | 🆕 New | $16 | 10 RPM | 2026-06-25 | Kimi long-context general model |
+| `sk-lRpmjgxVSbx8P2Q9fxlMaHMd73DZBGZ1ZbSPfY9gjZmpV7tq` | kimi-k2.5 | 🆕 New | $15 | 10 RPM | 2026-06-25 | Kimi long-context general model |
+| `sk-4F7VnsOAuDIIfuwq7y136054QX12k0GbmOkeakIDjCBKDIex` | kimi-k2.5 | 🆕 New | $14 | 10 RPM | 2026-06-25 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-24 12:30`
+### Image / Audio / Embedding `06-24 12:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -332,22 +334,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-vGG6YibdgE725mW9IL5yDrPxStOFJgzE4cVa8OQ4GB7cCJZx` | x-ai/grok-4.3 | 🆕 New | $20 | 10 RPM | 2026-06-24 | Live positive-balance channel |
-
----
-
-### google/gemini-3.1-flash-lite `06-23 12:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-chzquf55S9qPfWMFeayNi1aESU106gOFu0m2u6gIcamsQZ3p` | google/gemini-3.1-flash-lite | 🆕 New | $20 | 10 RPM | 2026-06-24 | Live positive-balance channel |
-
----
-
-### openai/gpt-chat-latest `06-23 12:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-ykLpi6cV4CgB6tGiCc9XxAD889FiLh6Uf2KIcYbMaltBO0FK` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-24 | Live positive-balance channel |
 
 ---
 
@@ -543,6 +529,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-24
+- 🆕 Added 7 keys (kimi-k2.5, deepseek-chat), cleaned 3 expired
 - 🆕 Added 14 keys (deepseek-chat, smart-chat, deepseek-v4-flash, deepseek-v4-pro, openrouter/owl-alpha, kimi-k2.5), cleaned 1 expired
 - 🆕 Added 1 keys (kimi-k2.5), cleaned 1 expired
 - 🆕 Added 5 keys (kimi-k2.5), cleaned 1 expired
