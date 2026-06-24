@@ -57,11 +57,11 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-24 15:22 (UTC+8)
+> ⏰ 最終更新: 2026-06-24 15:37 (UTC+8)
 
 ### 主要モデル
 
-### Claude Opus 4.7 `06-24 15:22`
+### Claude Opus 4.7 `06-24 15:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -72,7 +72,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-8rrk8pRuhcW31bjemI7JYqw7r7JoBlzSpLkfxj8sBUgIfrpH` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-24 | Claude Opus flagship |
 | `sk-aWJ6JP4rjkGDh44iBIYcr4zjK5LdLkzkAYGS6Rdy6NKWBS8a` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-24 | Claude Opus flagship |
 
-### Gemini `06-24 15:22`
+### Gemini `06-24 15:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -83,22 +83,22 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-y7IcQOSQGgcE8YJ0f2dy3fVOkpmETr7m7yvDEBz5Y3ZrBSWY` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-25 | Fast Gemini option for long-context general chat |
 | `sk-7dO2Up7GJABjm91bdb6Jgh2lUBh38EMprmOPj0tDQBU9SAs8` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-25 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `06-24 15:22`
+### DeepSeek `06-24 15:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-jRKZyJZ2kFTr9uDRdCJaoDo6tlBRoiIIXCV3unyfsvMSznwI` | deepseek-chat | 🆕 新規 | $19 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
+| `sk-UobT9NuFBRcbhqKSy7uJDbr8m5ejXYM9MSNBgY35ENaprvr6` | deepseek-chat | 🆕 新規 | $19 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
+| `sk-NAuuopIVVMFuoHcj04YBiNvp4qmSgtSUesGRLO2lrunL4NU0` | deepseek-chat | 🆕 新規 | $19 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
+| `sk-boe4SxYtfoBKL9NlRfPJwI3o5KTvt4EmdXKxnmEmxZZIKbew` | deepseek-chat | 🆕 新規 | $19 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
+| `sk-eqxLsHCKlTdgWGmC1iKwj1L8bZltsmUZQz5VopgLR4TDUhlZ` | deepseek-chat | 🆕 新規 | $19 | 20 RPM | 2026-06-26 | Everyday chat, coding, translation, writing |
 
-### Kimi `06-24 15:22`
+### Kimi `06-24 15:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-PJpE7pNEiz9MHQzVqZ3VQsHTV0ukGepRtdhqaduKkkExvCKo` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-26 | Kimi long-context general model |
-| `sk-fVATU4KB8THVLuYPeJpTAPWfKFbisGeaI50TJ2O5GlhGlCnU` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-26 | Kimi long-context general model |
-| `sk-0OrfmNisabpzADRdMXBqhzto69qAVNDcZN2ArP5gxnIbipVk` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-26 | Kimi long-context general model |
-| `sk-2UhskKx0U3kct6aB1t3ZJIvgXhG0AdRmuOnLfB7Bip2uBJZU` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-26 | Kimi long-context general model |
+| `sk-lRpmjgxVSbx8P2Q9fxlMaHMd73DZBGZ1ZbSPfY9gjZmpV7tq` | kimi-k2.5 | 🆕 新規 | $7 | 10 RPM | 2026-06-25 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-24 15:22`
+### Image / Audio / Embedding `06-24 15:37`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
